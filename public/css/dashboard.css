@@ -1,0 +1,17 @@
+.row {
+    text-align: center;
+    margin-top: 5em;
+}
+
+p span {
+    font-size: 2.2em;
+}
+
+input {
+    margin-top: 2.5em;
+}
+
+img {
+    width: 100%;
+    max-width: 600px;
+}
